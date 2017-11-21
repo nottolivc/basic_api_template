@@ -1,0 +1,9 @@
+{
+	"connectionLimit": 20,
+	"waitForConnections": true,
+	"host": "yourhost",
+	"port": 3306,
+	"user": "someuser",
+	"password": "somepassword",
+	"database": "somedb"
+}
